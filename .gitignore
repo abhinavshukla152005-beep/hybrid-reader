@@ -1,0 +1,7 @@
+# user-specific Firebase credentials — never commit
+firebase-config.js
+
+# demo video build artifacts
+demo/frames/
+demo/audio/
+demo/tmp/

@@ -1,0 +1,10 @@
+{
+  "name": "hybrid-reader",
+  "version": "1.0.0",
+  "description": "Offline-first reading copilot with hybrid AI inference (Firebase AI Logic: on-device Gemini Nano, cloud fallback).",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "demo": "python demo/generate_demo.py"
+  }
+}
