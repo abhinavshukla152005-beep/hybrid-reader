@@ -92,8 +92,11 @@ seeded placeholders.
 
 ## Live demo
 
-[Placeholder — deploy to Firebase Hosting / GitHub Pages and paste the URL here before submitting.]
+**https://abhinavshukla152005-beep.github.io/hybrid-reader/** — GitHub Pages build of this repo.
+It runs the on-device path only (no `firebase-config.js` is published), so in Chrome 139+ you get
+Gemini Nano directly; on other browsers it shows the clear "no AI available" state. For the full
+hybrid experience with the cloud fallback, run locally with your own Firebase config (5 steps above).
 
 ## Repo
 
-[Placeholder — public GitHub URL for the Devpost submission.]
+https://github.com/abhinavshukla152005-beep/hybrid-reader
